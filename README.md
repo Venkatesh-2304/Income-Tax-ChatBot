@@ -2,7 +2,7 @@
 ## Working 
 1) Question (Indian Language) is translated to English .
 2) Question (English) is then feed into Q&A Model to get an Answer(English) .
-3) If Given by the user to Simplify Answer , it simplifies the answer .
+3) Simplifies the Answer , if required by the user .
 4) Converts the answer to the required Indian Language .
 ## Instructions
 **Use python version <= 3.8**
